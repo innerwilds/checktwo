@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+    xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word"
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+    xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+    xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+    xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+    xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+    xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+    xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main"
+    mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh">
+    <w:zoom w:percent="100" />
+    <w:proofState w:grammar="clean" />
+    <w:defaultTabStop w:val="708" />
+    <w:characterSpacingControl w:val="doNotCompress" />
+    <w:footnotePr>
+        <w:footnote w:id="-1" />
+        <w:footnote w:id="0" />
+    </w:footnotePr>
+    <w:endnotePr>
+        <w:endnote w:id="-1" />
+        <w:endnote w:id="0" />
+    </w:endnotePr>
+    <w:compat>
+        <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word"
+            w:val="15" />
+        <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification"
+            w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="enableOpenTypeFeatures"
+            w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="doNotFlipMirrorIndents"
+            w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="differentiateMultirowTableHeaders"
+            w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="useWord2013TrackBottomHyphenation"
+            w:uri="http://schemas.microsoft.com/office/word" w:val="0" />
+    </w:compat>
+    <w:rsids>
+        <w:rsidRoot w:val="00741208" />
+        <w:rsid w:val="001142F0" />
+        <w:rsid w:val="0027156C" />
+        <w:rsid w:val="002C15EC" />
+        <w:rsid w:val="00311518" />
+        <w:rsid w:val="0032717D" />
+        <w:rsid w:val="00327457" />
+        <w:rsid w:val="00394738" />
+        <w:rsid w:val="004556D0" />
+        <w:rsid w:val="00492E0E" />
+        <w:rsid w:val="004C2E9D" />
+        <w:rsid w:val="004D044F" />
+        <w:rsid w:val="005B4A3A" />
+        <w:rsid w:val="005D59BF" />
+        <w:rsid w:val="005F3D87" />
+        <w:rsid w:val="00630AE9" />
+        <w:rsid w:val="006319EB" />
+        <w:rsid w:val="006D130F" />
+        <w:rsid w:val="00700918" />
+        <w:rsid w:val="00741208" />
+        <w:rsid w:val="007A6ADB" />
+        <w:rsid w:val="007E6108" />
+        <w:rsid w:val="0084259F" />
+        <w:rsid w:val="008632E3" />
+        <w:rsid w:val="00943EA6" />
+        <w:rsid w:val="00A05EA8" />
+        <w:rsid w:val="00A322A6" />
+        <w:rsid w:val="00A67347" />
+        <w:rsid w:val="00A906ED" />
+        <w:rsid w:val="00B1238E" />
+        <w:rsid w:val="00BC11E2" />
+        <w:rsid w:val="00BD3869" />
+        <w:rsid w:val="00C70647" />
+        <w:rsid w:val="00C91856" />
+        <w:rsid w:val="00CC1B21" />
+        <w:rsid w:val="00CC1BC0" />
+        <w:rsid w:val="00D13AFB" />
+        <w:rsid w:val="00D45DBE" />
+        <w:rsid w:val="00DF3D2F" />
+        <w:rsid w:val="00E40F78" />
+        <w:rsid w:val="00EC6C27" />
+        <w:rsid w:val="00F231E0" />
+        <w:rsid w:val="00FA31A9" />
+    </w:rsids>
+    <m:mathPr>
+        <m:mathFont m:val="Cambria Math" />
+        <m:brkBin m:val="before" />
+        <m:brkBinSub m:val="--" />
+        <m:smallFrac m:val="0" />
+        <m:dispDef />
+        <m:lMargin m:val="0" />
+        <m:rMargin m:val="0" />
+        <m:defJc m:val="centerGroup" />
+        <m:wrapIndent m:val="1440" />
+        <m:intLim m:val="subSup" />
+        <m:naryLim m:val="undOvr" />
+    </m:mathPr>
+    <w:themeFontLang w:val="ru-RU" />
+    <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1"
+        w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5"
+        w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink" />
+    <w:doNotIncludeSubdocsInStats />
+    <w:shapeDefaults>
+        <o:shapedefaults v:ext="edit" spidmax="1026" />
+        <o:shapelayout v:ext="edit">
+            <o:idmap v:ext="edit" data="1" />
+        </o:shapelayout>
+    </w:shapeDefaults>
+    <w:decimalSymbol w:val="," />
+    <w:listSeparator w:val=";" />
+    <w14:docId w14:val="1467DA2B" />
+    <w15:chartTrackingRefBased />
+    <w15:docId w15:val="{53C7AAA2-841C-4490-ADBC-A7F58F9D61EA}" />
+</w:settings>
